@@ -1,0 +1,28 @@
+.tags-input {
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 6px 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+
+  &--input {
+    border: none;
+    outline: none;
+    flex-basis: 120px;
+  }
+
+  &--tag {
+    padding: 3px 8px;
+    background: lightblue;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+  }
+
+  &--tag-delete {
+    height: 100%;
+    cursor: pointer;
+    margin-left: 4px;
+  }
+}
