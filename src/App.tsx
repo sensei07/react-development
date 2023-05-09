@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
 import {Tdd} from './components/TDD';
-import {UseImperativeHandle} from './components/hooks/examples/UseImperativeHandle/UseImperativeHandle';
 import {Typescript} from './components/typescript';
+import {Hooks} from './components/hooks';
 
 function App() {
     return (
         <>
             {/*<Tdd/>*/}
-            <UseImperativeHandle/>
-            <Typescript/>
+            <Hooks/>
+            {/*<Typescript/>*/}
         </>
     );
 }
