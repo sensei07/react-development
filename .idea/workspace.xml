@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa563a81-ae97-43db-bb1e-e4d28c7e7ace" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/examples/UseRafThrottle/IncreaseElement.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/examples/UseRafThrottle/UseRafThrottle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/examples/api/storage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/examples/useDebounce/SaveableTextInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/examples/useDebounce/useDebounce.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/customHooks/useDebounce.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/customHooks/useDebounceEffect.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/customHooks/useEvent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/customHooks/useRafThrottle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/debounce.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/rafThrottle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Oxm9gzBqwRZAt6Ixs1VjOcAa8J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/atomk/Desktop/Education/react-development/src/hooks/customHooks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Users/atomk/Desktop/Education/react-development/node_modules/react-scripts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\atomk\\Desktop\\Education\\react-development\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\atomk\Desktop\Education\react-development\src\hooks\customHooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\atomk\Desktop\Education\react-development\src\components\hooks\examples\useDebounce" />
+      <recent name="C:\Users\atomk\Desktop\Education\react-development\src\components\hooks\examples\UseRafThrottle" />
+      <recent name="C:\Users\atomk\Desktop\Education\react-development\src\components\hooks\examples\AA" />
+      <recent name="C:\Users\atomk\Desktop\Education\react-development\src\components\hooks\examples" />
+      <recent name="C:\Users\atomk\Desktop\Education\react-development\src\projects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.TagsInput (2)">
+    <configuration name="TagsInput (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/components/UI/TagsInput/TagsInput.test.tsx" />
+      <test-names>
+        <test-name value="TagsInput" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="TagsInput (2)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/components/TDD/TagsInput/TagsInput.test.tsx" />
+      <test-names>
+        <test-name value="TagsInput" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="TagsInput.should add tag when typing comma" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/UI/TagsInput.test.tsx" />
+      <test-names>
+        <test-name value="TagsInput" />
+        <test-name value="should add tag when typing comma" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="TagsInput.should be able to add tag when pressing enter" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/UI/TagsInput.test.tsx" />
+      <test-names>
+        <test-name value="TagsInput" />
+        <test-name value="should be able to add tag when pressing enter" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.TagsInput (2)" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.TagsInput (1)" />
+        <item itemvalue="Jest.TagsInput.should add tag when typing comma" />
+        <item itemvalue="Jest.TagsInput.should be able to add tag when pressing enter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa563a81-ae97-43db-bb1e-e4d28c7e7ace" name="Changes" comment="" />
+      <created>1682510466693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682510466693</updated>
+      <workItem from="1682510467905" duration="551000" />
+      <workItem from="1682511033161" duration="2892000" />
+      <workItem from="1682514409188" duration="7142000" />
+      <workItem from="1682522971622" duration="68000" />
+      <workItem from="1682523047351" duration="12237000" />
+      <workItem from="1682535627316" duration="4217000" />
+      <workItem from="1682693885174" duration="5493000" />
+      <workItem from="1682950073098" duration="20000" />
+      <workItem from="1683391841576" duration="3142000" />
+      <workItem from="1683639981135" duration="6441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
